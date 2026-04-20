@@ -1,0 +1,13 @@
+body { margin0; font-familySegoe UI; background#f9f9f9; }
+.header { displayflex; justify-contentspace-between; padding15px; background#111; colorwhite; }
+nav a { colorwhite; margin10px; text-decorationnone; }
+.hero { height90vh; backgroundurl('httpsimages.unsplash.comphoto-1522335789203-aabd1fc54bc9') centercover; displayflex; align-itemscenter; justify-contentcenter; colorwhite; text-aligncenter; }
+.btn { padding10px 20px; background#ff4d6d; colorwhite; bordernone; border-radius5px; cursorpointer; }
+.services-grid { displaygrid; grid-template-columnsrepeat(auto-fit,minmax(200px,1fr)); gap20px; padding20px; }
+.service-card { backgroundwhite; padding20px; border-radius10px; box-shadow0 5px 15px rgba(0,0,0,0.1); }
+.gallery { padding30px; text-aligncenter; }
+.gallery-grid { displayflex; gap10px; justify-contentcenter; }
+.gallery img { width200px; border-radius10px; }
+.calculator { padding20px; text-aligncenter; }
+.form { displayflex; flex-directioncolumn; width300px; marginauto; gap10px; }
+footer { text-aligncenter; padding15px; background#eee; }
